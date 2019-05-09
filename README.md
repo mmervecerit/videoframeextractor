@@ -1,4 +1,4 @@
-#Video Frame Extractor for Python3.x
+**Video Frame Extractor for Python3.x**
 
 *Dependencies:*
 
